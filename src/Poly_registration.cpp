@@ -20,7 +20,7 @@ int main (int argc, char** argv)
     int nb_iter=1000;
     int min_plane_size1 = 1000;
     int min_plane_size2 = 100;
-    double alpha=0.05;
+    double alpha=0.09;
     double d_thr;
     
     if (argc > m) d_thr = atof(argv[m++]);
